@@ -8,11 +8,11 @@
 
 ### Lecture Take Aways
 
+- Active Record
 - Inheritance
 - Rake
 - Migrations
-- Seeding a database
 - Active Record Queries
 - Active Record Associations: One to Many
-- Has many, belongs to
+- has_many, belongs_to
 
